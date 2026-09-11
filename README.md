@@ -1,10 +1,8 @@
-﻿# Companion
+# Unfold Companion
 
-Unfold - Sylvia's Companion
+<img src="./assets/header.svg" width="100%" alt="Unfold Companion" />
 
-## Stack
-
-react Â· vite Â· typescript Â· tailwindcss
+Personal companion app concept.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· tailwindcss
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
